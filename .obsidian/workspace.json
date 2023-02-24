@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "0872b474c2355528",
+    "type": "split",
+    "children": [
+      {
+        "id": "814883c40041b9f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c11363e52d481da",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd97a3d61e2cfb0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd05c4cc95a136cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf216d41b4d2a620",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b084e77a6d1e4f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ReinforcementLearning",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9c2e635c26ea2d2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f690047d6bfbeead",
+    "type": "split",
+    "children": [
+      {
+        "id": "a049e2cfe782ad6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc095dfd2f52c42f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36648a5541833cff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "90a1e296f73ee3d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8c9e1ff89ead476c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3c11363e52d481da",
+  "lastOpenFiles": [
+    "Eligibility Traces.md",
+    "Representation Theory.md",
+    "Shor's.md",
+    "Unitary Matrix.md",
+    "Hamiltonian Simulation.md",
+    "Quantum Counting Algorithm.md",
+    "Grover's Search.md",
+    "Markov Decision Process.md",
+    "Value Iteration Algorithm.md",
+    "Generalised Policy Iteration Algorithm.md"
+  ]
+}

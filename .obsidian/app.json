@@ -1,0 +1,12 @@
+{
+  "attachmentFolderPath": "Media",
+  "userIgnoreFilters": [
+    ".png"
+  ],
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "showFrontmatter": false,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "spellcheck": true
+}
