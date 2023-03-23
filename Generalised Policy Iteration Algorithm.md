@@ -4,6 +4,10 @@
 
 This is a [[Dynamic Programming]] algorithm used for [[Markov Decision Process]] optimisation.
 
+Generalised Policy Iteration is the idea that we can evaluate the Value Function for a pol- icy with any Policy Evaluation method, and we can improve a policy with any Policy Improvement method (not necessarily the methods used in the classical Policy Iteration DP algorithm).
+
+In particular, we’d like to emphasise the idea that neither of Policy Evaluation and Policy Improvement need to go fully towards the notion of consistency they are respectively striving for.
+
 ### Optimal Policy from Optimal Value Function
 Value Iteration does not deal with any policies, only the value functions. This means that we extract an optimal policy from the optimal value function s.t. $V^{\pi^*} = V^*$. We can do this using the Greedy Policy function $G$:
 $$

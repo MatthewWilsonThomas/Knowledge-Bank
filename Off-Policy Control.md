@@ -1,0 +1,6 @@
+#ReinforcementLearning 
+
+All [[RL for Control]] algorithms face a tension between wanting to learn Q-Values contingent on subsequent optimal behaviour versus wanting to explore all actions. This almost seems contradictory because the quest for exploration deters one from optimal behaviour. Our approach so far of pursuing an ε-greedy policy (to be thought of as an almost optimal policy) is a hack to resolve this tension. A cleaner approach is to use two separate policies for the two separate goals of wanting to be optimal and wanting to explore. The first policy is the one that we learn about (which eventually becomes the optimal policy)—we call this policy the Target Policy (to signify the “target” of Control). The second policy is the one that behaves in an exploratory manner, so we can obtain sufficient data for all actions, enabling us to adequately estimate the Q-Value Function—we call this policy the Behaviour Policy.
+
+The separation of behaviour policy and target policy as two separate policies gives us algorithms that are known as Off-Policy Algorithms to indicate the fact that the behaviour policy is allowed to “deviate off” from the target policy. This separation enables us to construct more general and more powerful RL algorithms.
+

@@ -9,8 +9,8 @@ Abelian Groups are the most general form of a group known to have efficient Quan
 ![[Screenshot 2023-02-19 at 12.23.59 PM.png]]
 
 
-### Generalizations
-The Abelian HSP generalizes many quantum algorithms and provides a general framework within which their solutions fit.
+### Generalisations
+The Abelian HSP generalises many quantum algorithms and provides a general framework within which their solutions fit.
 #### [[Shor's]]
 
 #### [[Simon's]]

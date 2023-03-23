@@ -1,0 +1,3 @@
+#ReinforcementLearning 
+
+The experiences data arrives in the form of a single unit of experience at a time (single unit is a trace experience for MC and an atomic experience for TD), the unit of experience is used by the algorithm for Value Function learning, and then that unit of experience is not used later in the algorithm (essentially, that unit of experience, once consumed, is not re-consumed for further learning later in the algorithm). It doesn’t have to be this way—one can develop RL algorithms that re-use experience data—this approach is known as Experience-Replay.

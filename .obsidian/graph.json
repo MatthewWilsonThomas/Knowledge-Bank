@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "#QuantumComputing",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -41,18 +41,25 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "tag:#Statistics",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 0.997017415364583,
+  "nodeSizeMultiplier": 0.996419270833333,
   "lineSizeMultiplier": 1.00160319010417,
   "collapse-forces": false,
-  "centerStrength": 0.497111002604167,
+  "centerStrength": 0.247151692708333,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.25858666356654436,
+  "scale": 0.3994680937509452,
   "close": false
 }

@@ -6,7 +6,6 @@ Depth-first search is an algorithm for traversing or searching tree or graph dat
 So the basic idea is to start from the root or any arbitrary node and mark the node and move to the adjacent unmarked node and continue this loop until there is no unmarked adjacent node. Then backtrack and check for other unmarked nodes and traverse them. Finally, print the nodes in the path.
 
 Follow the below steps to solve the problem:
-
 -   Create a recursive function that takes the index of the node and a visited array.
 -   Mark the current node as visited and print the node.
 -   Traverse all the adjacent and unmarked nodes and call the recursive function with the index of the adjacent node.
@@ -19,7 +18,6 @@ from collections import defaultdict
 
 # This class represents a directed graph using
 # adjacency list representation
-
 
 class Graph:
 
